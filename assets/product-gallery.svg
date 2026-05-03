@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900">
+  <rect width="1600" height="900" rx="48" fill="#08141f"/>
+  <g opacity=".95">
+    <rect x="120" y="150" width="420" height="600" rx="34" fill="#0f2434"/>
+    <rect x="610" y="150" width="420" height="600" rx="34" fill="#0f2434"/>
+    <rect x="1100" y="150" width="380" height="600" rx="34" fill="#0f2434"/>
+  </g>
+  <g transform="translate(190 240)">
+    <rect x="60" y="40" width="220" height="360" rx="110" fill="#e2e8f0"/>
+    <rect x="95" y="72" width="150" height="300" rx="72" fill="#0b1726"/>
+    <rect x="130" y="120" width="80" height="36" rx="18" fill="#5eead4"/>
+  </g>
+  <g transform="translate(670 240)">
+    <circle cx="170" cy="190" r="140" fill="#5eead4" opacity=".2"/>
+    <circle cx="170" cy="190" r="96" fill="#22c55e" opacity=".24"/>
+    <circle cx="170" cy="190" r="56" fill="#e2e8f0"/>
+  </g>
+  <g transform="translate(1140 220)">
+    <rect x="70" y="40" width="160" height="360" rx="24" fill="#0f766e"/>
+    <rect x="95" y="78" width="110" height="112" rx="16" fill="#e2e8f0"/>
+    <rect x="0" y="430" width="300" height="44" rx="22" fill="#99f6e4"/>
+  </g>
+  <text x="800" y="820" text-anchor="middle" font-family="Arial" font-size="52" fill="#ffffff">Product Visual Set</text>
+</svg>

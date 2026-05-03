@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <rect width="800" height="600" rx="36" fill="#0b2440"/>
+  <circle cx="260" cy="300" r="170" fill="#22c55e" opacity=".25"/>
+  <circle cx="400" cy="300" r="170" fill="#5eead4" opacity=".25"/>
+  <circle cx="540" cy="300" r="170" fill="#38bdf8" opacity=".25"/>
+  <text x="400" y="540" text-anchor="middle" font-family="Arial" font-size="44" fill="#ffffff">GAC Filter</text>
+</svg>

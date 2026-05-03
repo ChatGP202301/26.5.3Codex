@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#04111c"/>
+      <stop offset="0.55" stop-color="#0b2638"/>
+      <stop offset="1" stop-color="#12324b"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="30%" r="60%">
+      <stop offset="0" stop-color="#5eead4" stop-opacity=".5"/>
+      <stop offset="1" stop-color="#5eead4" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <circle cx="800" cy="260" r="340" fill="url(#glow)"/>
+  <path d="M0 650C220 600 380 540 560 560C740 580 860 680 1030 670C1200 660 1360 580 1600 620V900H0Z" fill="#0f4c5c" opacity=".55"/>
+  <path d="M0 730C220 680 370 650 560 670C740 690 900 770 1080 760C1260 750 1390 690 1600 700V900H0Z" fill="#0ea5e9" opacity=".24"/>
+  <text x="110" y="145" font-family="Arial, Helvetica, sans-serif" font-size="66" font-weight="700" fill="#fff">Express Water</text>
+  <text x="110" y="208" font-family="Arial, Helvetica, sans-serif" font-size="30" fill="#cbd5e1">Premium Filtration Solutions</text>
+  <g transform="translate(1000 150)">
+    <rect x="0" y="80" width="260" height="430" rx="42" fill="#e2e8f0" opacity=".9"/>
+    <rect x="46" y="132" width="168" height="326" rx="28" fill="#0b1726"/>
+    <rect x="70" y="180" width="120" height="60" rx="16" fill="#5eead4"/>
+    <rect x="70" y="270" width="120" height="18" rx="9" fill="#94a3b8"/>
+    <rect x="70" y="306" width="120" height="18" rx="9" fill="#94a3b8"/>
+    <rect x="70" y="342" width="120" height="18" rx="9" fill="#94a3b8"/>
+    <circle cx="130" cy="500" r="42" fill="#5eead4"/>
+  </g>
+</svg>
